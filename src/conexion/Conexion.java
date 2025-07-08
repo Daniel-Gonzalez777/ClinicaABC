@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 public class Conexion {
 	private static Conexion instancia;
 	
-	/*Base de Datos 
+	/*Le dejo la base de datos aca por si el paquete que tiene el scrip no funciona
 	 * 
 	 * create database clinicaabc;
 	use clinicaabc;
